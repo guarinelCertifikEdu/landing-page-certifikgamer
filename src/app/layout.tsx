@@ -27,11 +27,11 @@ const ibmPlexMono = IBM_Plex_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: 'CertifikGamer - Modern Next.js Template',
+    default: 'CertifikGamer',
     template: '%s | CertifikGamer',
   },
   description:
-    'A modern, fully featured Next.js template built with Shadcn/UI, TailwindCSS and TypeScript, perfect for your next web application.',
+    'Contrate jogadores, avalie suas habilidades e encontre o jogador perfeito para o seu time em um ambiente criado para solucionar os problemas de contratação de jogadores.',
   keywords: [
     'Next.js',
     'React',
@@ -42,8 +42,8 @@ export const metadata: Metadata = {
     'Shadcn/UI',
     'Web Development',
   ],
-  authors: [{ name: 'CertifikGamer - Shadcnblckos.com' }],
-  creator: 'CertifikGamer - Shadcnblckos.com',
+  authors: [{ name: 'CertifikGamer' }],
+  creator: 'CertifikGamer',
   publisher: 'CertifikGamer',
   robots: {
     index: true,
@@ -61,24 +61,24 @@ export const metadata: Metadata = {
     shortcut: [{ url: '/favicon/favicon.ico' }],
   },
   openGraph: {
-    title: 'CertifikGamer - Modern Next.js Template',
+    title: 'CertifikGamer',
     description:
-      'A modern, fully featured Next.js template built with Shadcn/UI, TailwindCSS and TypeScript, perfect for your next web application.',
+      'Contrate jogadores, avalie suas habilidades e encontre o jogador perfeito para o seu time em um ambiente criado para solucionar os problemas de contratação de jogadores.',',',
     siteName: 'CertifikGamer',
     images: [
       {
         url: '/og-image.jpg',
         width: 1200,
         height: 630,
-        alt: 'CertifikGamer - Modern Next.js Template',
+        alt: 'CertifikGamer',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'CertifikGamer - Modern Next.js Template',
+    title: 'CertifikGamer',
     description:
-      'A modern, fully featured Next.js template built with Shadcn/UI, TailwindCSS and TypeScript, perfect for your next web application.',
+      'Contrate jogadores, avalie suas habilidades e encontre o jogador perfeito para o seu time em um ambiente criado para solucionar os problemas de contratação de jogadores.',',',
     images: ['/og-image.jpg'],
     creator: '@CertifikGamer',
   },
