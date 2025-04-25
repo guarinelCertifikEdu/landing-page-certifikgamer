@@ -63,7 +63,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'CertifikGamer',
     description:
-      'Contrate jogadores, avalie suas habilidades e encontre o jogador perfeito para o seu time em um ambiente criado para solucionar os problemas de contratação de jogadores.',',',
+      'Contrate jogadores, avalie suas habilidades e encontre o jogador perfeito para o seu time em um ambiente criado para solucionar os problemas de contratação de jogadores',
     siteName: 'CertifikGamer',
     images: [
       {
@@ -78,7 +78,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'CertifikGamer',
     description:
-      'Contrate jogadores, avalie suas habilidades e encontre o jogador perfeito para o seu time em um ambiente criado para solucionar os problemas de contratação de jogadores.',',',
+      'Contrate jogadores, avalie suas habilidades e encontre o jogador perfeito para o seu time em um ambiente criado para solucionar os problemas de contratação de jogadores.',
     images: ['/og-image.jpg'],
     creator: '@CertifikGamer',
   },
